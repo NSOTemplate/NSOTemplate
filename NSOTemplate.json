@@ -1,0 +1,24 @@
+
+{
+  "contact": "deusvult420",
+  "templates": [
+    {
+      "name": "Ame",
+      "sources": ["https://cdn.discordapp.com/attachments/619915799687069726/1132804959331696640/Untitled-.png"],
+      "x": 669,
+      "y": 1536
+    },
+    {
+      "name": "Kangel",
+      "sources": ["https://cdn.discordapp.com/attachments/619915799687069726/1132907674028212284/Kangel-Minus-Blue-Box.png"],
+      "x": 97,
+      "y": 702
+    }
+  ],
+  "whitelist": [
+    {
+      "name": "/r/omori",
+      "url": "https://raw.githubusercontent.com/sunryze-git/omoriplace2023/main/omoriplace.json"
+    }
+  ]
+}
