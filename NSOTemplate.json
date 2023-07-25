@@ -20,11 +20,5 @@
       "x": 97,
       "y": 702
     }
-  ],
-  "whitelist": [
-    {
-      "name": "/r/omori",
-      "url": "https://raw.githubusercontent.com/sunryze-git/omoriplace2023/main/omoriplace.json"
-    }
   ]
 }
